@@ -12,6 +12,7 @@
  */
 
 #include <QPainter>
+#include <QPainterPath>
 
 #include "layout/flexbox.h"
 #include "reactitem.h"
